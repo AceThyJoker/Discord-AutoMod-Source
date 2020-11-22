@@ -17,6 +17,6 @@ this will lead you into illegal trouble, i have a license you have to read##
 
 Main Dev: 1Ace#0001 
 
-Helpers: lope#0001 , Niteletsplay#9288 , fweeky (alucard creator)
+Helpers: lope#0001 , Niteletsplay#9288 , fweak (alucard creator)
 
 Discord server: https://discord.gg/2WT5qpB39Q
