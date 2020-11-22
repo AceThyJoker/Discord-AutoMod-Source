@@ -14,6 +14,9 @@ is already added, so skip the discord develepor portal bit,##
 this will lead you into illegal trouble, i have a license you have to read##
 
 ##All you got to do after it is setup, simply run it, and say !help##
+
 Main Dev: 1Ace#0001 
+
 Helpers: lope#0001 , Niteletsplay#9288 
+
 Discord server: https://discord.gg/2WT5qpB39Q
